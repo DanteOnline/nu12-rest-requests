@@ -27,7 +27,7 @@ import pprint
 # https://api.github.com/search/code?q=addClass+in:file+language:js+repo:jquery/jquery
 
 # Авторизация
-token = 'ab614b6f5ed5cbdaf25795fa748db6eca397a11a'
+token = 'MY_TOKEN'
 # 1.
 # result = requests.get('https://api.github.com/search/code?q=addClass+in:file+language:js+repo:jquery/jquery', auth=('DanteOnline', token))
 # 2.
